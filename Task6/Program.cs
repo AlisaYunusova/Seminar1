@@ -5,7 +5,7 @@ if (number % 2 == 0)
 {
     Console.WriteLine("Четное");
 }
-else 
+else
 {
     Console.WriteLine("Не четное");
 }
