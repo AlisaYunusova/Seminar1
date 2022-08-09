@@ -10,7 +10,7 @@ if (number1 > number2)
 {
     maxnumber = number1;
 }
-else 
+else
 {
     maxnumber = number2;
 }
@@ -18,7 +18,7 @@ if (maxnumber > number3)
 {
     Console.WriteLine(maxnumber);
 }
-else 
+else
 {
     Console.WriteLine(number3);
 }
