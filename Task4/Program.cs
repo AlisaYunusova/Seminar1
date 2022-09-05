@@ -1,4 +1,5 @@
-﻿Console.WriteLine("Введите 1 число");
+//сравниить три числа между собой и найти самое большое
+Console.WriteLine("Введите 1 число");
 int number1 = Convert.ToInt32(Console.ReadLine());
 Console.WriteLine("Введите 2 число");
 int number2 = Convert.ToInt32(Console.ReadLine());
